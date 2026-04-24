@@ -1,0 +1,24 @@
+warehouse_system/
+│
+├── main.py
+│
+├── models/
+│   ├── __init__.py
+│   ├── item.py
+│   └── mutasi.py
+│
+├── core/
+│   ├── __init__.py
+│   ├── item_service.py
+│   └── mutasi_service.py
+│
+├── repositories/
+│   ├── __init__.py
+│   ├── item_repository.py
+│   └── mutasi_repository.py
+│
+├── ui/
+│   ├── __init__.py
+│   └── console.py 
+│
+└── data/

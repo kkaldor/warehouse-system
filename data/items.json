@@ -1,0 +1,23 @@
+[
+  {
+    "id": "111A",
+    "nama": "Sawi",
+    "kategori": "Sayuran",
+    "stok": 0,
+    "min_stok": 100
+  },
+  {
+    "id": "211A",
+    "nama": "Bayam",
+    "kategori": "Sayuran",
+    "stok": 0,
+    "min_stok": 100
+  },
+  {
+    "id": "311A",
+    "nama": "Kol",
+    "kategori": "Sayuran",
+    "stok": 0,
+    "min_stok": 100
+  }
+]
