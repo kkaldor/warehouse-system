@@ -1,0 +1,1 @@
+Warehouse System CLI adalah aplikasi Command Line Interface untuk mengelola operasi gudang secara efisien, termasuk manajemen barang, stok, transaksi, dan laporan. Sistem ini dirancang dengan fokus pada modularitas, maintainability, dan kemudahan pengembangan lebih lanjut.
